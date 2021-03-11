@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "name": "Maria Julia da Silva",
+      "email": "mjds@empresa.com",
+      "id": 1
+    },
+    {
+      "name": "Ana Silva Alterada",
+      "email": "anasilva@negocio.com.br",
+      "id": 2
+    },
+    {
+      "name": "Rodrigo Marinho",
+      "email": "rodrigo@marinho.com.br",
+      "id": 3
+    },
+    {
+      "name": "João Carlos",
+      "email": "joaocarlos@gmail.com.br",
+      "id": 4
+    },
+    {
+      "name": "Julia Silvana",
+      "email": "susilvana@meunegocio.com.br",
+      "id": 5
+    }
+  ]
+}
