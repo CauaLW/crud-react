@@ -26,6 +26,9 @@
 <p align="center">
   <img alt="CRUD React" src=".github/main.png" width="100%">
 </p>
+<p align="center">
+  <img alt="CRUD React Mobile" src=".github/main-mobile.png" width="100%">
+</p>
 
 ## :clipboard: Sobre o Projeto
 
