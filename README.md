@@ -38,7 +38,7 @@ Um sistema de crud de usuários simples, usando JSON-server para simplificação
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- Framework ReactJs
+- ReactJs
 - React Router
 - Bootstrap
 - JSON-server
