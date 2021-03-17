@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-   Projeto desenvolvido para estudo e aprimoramento de habilidades com o framework do ReactJs.
+   Projeto desenvolvido para estudo e aprimoramento de habilidades com a biblioteca do ReactJs.
 </div>
 
 <p align="center">
